@@ -1,3 +1,18 @@
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f2ebfb;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 15px auto;
+}
